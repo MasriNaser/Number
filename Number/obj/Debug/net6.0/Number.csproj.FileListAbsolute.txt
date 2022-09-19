@@ -1,0 +1,15 @@
+/Users/nasermasri/Projects/Number/Number/bin/Debug/net6.0/Number
+/Users/nasermasri/Projects/Number/Number/bin/Debug/net6.0/Number.deps.json
+/Users/nasermasri/Projects/Number/Number/bin/Debug/net6.0/Number.runtimeconfig.json
+/Users/nasermasri/Projects/Number/Number/bin/Debug/net6.0/Number.dll
+/Users/nasermasri/Projects/Number/Number/bin/Debug/net6.0/Number.pdb
+/Users/nasermasri/Projects/Number/Number/obj/Debug/net6.0/Number.csproj.AssemblyReference.cache
+/Users/nasermasri/Projects/Number/Number/obj/Debug/net6.0/Number.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nasermasri/Projects/Number/Number/obj/Debug/net6.0/Number.AssemblyInfoInputs.cache
+/Users/nasermasri/Projects/Number/Number/obj/Debug/net6.0/Number.AssemblyInfo.cs
+/Users/nasermasri/Projects/Number/Number/obj/Debug/net6.0/Number.csproj.CoreCompileInputs.cache
+/Users/nasermasri/Projects/Number/Number/obj/Debug/net6.0/Number.dll
+/Users/nasermasri/Projects/Number/Number/obj/Debug/net6.0/refint/Number.dll
+/Users/nasermasri/Projects/Number/Number/obj/Debug/net6.0/Number.pdb
+/Users/nasermasri/Projects/Number/Number/obj/Debug/net6.0/Number.genruntimeconfig.cache
+/Users/nasermasri/Projects/Number/Number/obj/Debug/net6.0/ref/Number.dll
